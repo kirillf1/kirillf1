@@ -6,11 +6,7 @@ I'm a beginner C# software engineer. I mainly do backend development on ASP NET 
        
 </p>
 
-<p align='center'>
-   <a href="https://vk.com/ktarasov99">
-       <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white"/>
-   </a>
-<p align='center'>
+
 <p align='center'>
   📫 How to reach me: <a href='kirillf2412@gmail.com'>kirillf2412@gmail.com</a>
 </p>
