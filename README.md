@@ -1,8 +1,7 @@
 ### Hi, I'm Kirill Tarasov 	:vulcan_salute:
 I'm a beginner C# software engineer. I mainly do backend development on ASP NET Core. I am currently looking for a job to improve my development skills.
 <p align='center'>
-  <a href="https://github.com/kirillf1/github-readme-stats">
-       <img height=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirillf1&layout=compact&langs_count=8"/></a>
+  
        
 </p>
 
