@@ -12,9 +12,9 @@ I'm a beginner C# software engineer.
 </p>
 
 ## 🛠 Technical Stack
-*   Languages: C#, TypeScript(base), JS(base)
-*   Databases: MSSQL, PostgreSQL, MongoDB(base)
-*   Frameworks: ASP NET Core, Entity Framework Core, WPF, xUnit, Blazor, Angular(base)
+*   Languages: C#, python, TypeScript(base), JS(base)
+*   Databases: MSSQL, PostgreSQL
+*   Frameworks: ASP NET Core, Entity Framework Core, WPF, Avalonia, ReactiveUI, xUnit, Blazor,
 *   Github, Docker(base)
 * 🌱 I’m currently learning MAUI
 ### My opensource projects
@@ -22,5 +22,5 @@ I'm a beginner C# software engineer.
   * [BeerEncyclopedia](https://github.com/kirillf1/BeerEncyclopedia) The project is an encyclopedia of beer with monitoring price. Classification of beer according to BJCP. Blazor is used for the front. This is a revised version of my first serious project [BeerProject](https://github.com/kirillf1/BeerProject)
   * [content-rating](https://github.com/kirillf1/content-rating) This project allows you to estimate and guess content together with other users. Content is added by link. It can be either a video from YouTube, or a picture or a sound file.
 
-- 🔭 I’m currently working on [BeerEncyclopedia](https://github.com/kirillf1/BeerEncyclopedia)
+
 
