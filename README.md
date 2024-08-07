@@ -18,6 +18,7 @@ I'm a beginner C# software engineer.
 *   Github, Docker
 * 🌱 I’m currently learning Kafka
 ### My opensource projects
+* Currently working:
 * [content-rating](https://github.com/kirillf1/ContentRating) This project allows you to estimate and guess content together with other users. Content is added by link or you can upload the content yourself. It can be either a video from YouTube, or a picture or a sound file.
 * Old projects:
  * [BunkerGame](https://github.com/kirillf1/BunkerGame) The project that implements the board game "Bunker". Now it works only through a bot in VK. There is a development to create a game on phones. Attention game in Russian.
