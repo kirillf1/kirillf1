@@ -12,12 +12,14 @@ I'm a beginner C# software engineer.
 </p>
 
 ## 🛠 Technical Stack
-*   Languages: C#, python, TypeScript(base), JS(base)
-*   Databases: MSSQL, PostgreSQL
+*   Languages: C#, Python, TypeScript(base), JS(base)
+*   Databases: PostgreSQL, MongoDb, Redis
 *   Frameworks: ASP NET Core, Entity Framework Core, WPF, Avalonia, ReactiveUI, xUnit, Blazor,
-*   Github, Docker(base)
+*   Github, Docker
 * 🌱 I’m currently learning MAUI
 ### My opensource projects
+* [content-rating](https://github.com/kirillf1/ContentRating) This project allows you to estimate and guess content together with other users. Content is added by link or you can upload the content yourself. It can be either a video from YouTube, or a picture or a sound file.
+Old projects:
  * [BunkerGame](https://github.com/kirillf1/BunkerGame) The project that implements the board game "Bunker". Now it works only through a bot in VK. There is a development to create a game on phones. Attention game in Russian.
   * [BeerEncyclopedia](https://github.com/kirillf1/BeerEncyclopedia) The project is an encyclopedia of beer with monitoring price. Classification of beer according to BJCP. Blazor is used for the front. This is a revised version of my first serious project [BeerProject](https://github.com/kirillf1/BeerProject)
   * [content-rating](https://github.com/kirillf1/content-rating) This project allows you to estimate and guess content together with other users. Content is added by link. It can be either a video from YouTube, or a picture or a sound file.
