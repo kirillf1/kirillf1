@@ -14,9 +14,9 @@ I'm a beginner C# software engineer.
 ## 🛠 Technical Stack
 *   Languages: C#, Python, TypeScript(base), JS(base)
 *   Databases: PostgreSQL, MongoDb, Redis
-*   Frameworks: ASP NET Core, Entity Framework Core, WPF, Avalonia, ReactiveUI, xUnit, Blazor,
+*   Frameworks: ASP NET Core, Entity Framework Core, WPF, Blazor
 *   Github, Docker
-* 🌱 I’m currently learning MAUI
+* 🌱 I’m currently learning Kafka
 ### My opensource projects
 * [content-rating](https://github.com/kirillf1/ContentRating) This project allows you to estimate and guess content together with other users. Content is added by link or you can upload the content yourself. It can be either a video from YouTube, or a picture or a sound file.
 * Old projects:
